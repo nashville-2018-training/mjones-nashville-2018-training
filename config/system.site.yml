@@ -1,0 +1,14 @@
+uuid: b29b21b4-79d9-4f1f-aa29-04e1516646c4
+name: mjones-nashville-2018-training
+mail: mikejone@usc.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
